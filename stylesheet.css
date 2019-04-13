@@ -1,0 +1,32 @@
+a, a:hover{ color: #429fe6; }
+
+.slicknav_menu, .mobile-menu { background: #429fe6; } 
+
+.navbar-default .navbar-nav > li > a:hover { background-color: #429fe6; }
+
+.form-control:focus { 
+border-color: #429fe6; 
+
+    box-shadow: none !important;
+    outline: 0 none;
+}
+
+
+.left-cats > li > a:hover { 
+	color: #429fe6; 
+}
+
+.panel-primary>.panel-heading { background-color: #429fe6; }
+.panel-primary {
+border-color: #429fe6;
+}
+
+.panel-primary>.panel-heading { border-color: #429fe6; }
+
+.panel-primary>.panel-heading+.panel-collapse>.panel-body {
+border-top-color: #429fe6; 
+}
+
+.panel-title>a:hover { color: #fff; }
+
+.icons i { color: #429fe6; }
