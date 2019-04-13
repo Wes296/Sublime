@@ -1,11 +1,11 @@
-a, a:hover{ color: #429fe6; }
+a, a:hover{ color: #00000081; }
 
-.slicknav_menu, .mobile-menu { background: #429fe6; } 
+.slicknav_menu, .mobile-menu { background: #00000081; } 
 
-.navbar-default .navbar-nav > li > a:hover { background-color: #429fe6; }
+.navbar-default .navbar-nav > li > a:hover { background-color: #00000081; }
 
 .form-control:focus { 
-border-color: #429fe6; 
+border-color: #00000081; 
 
     box-shadow: none !important;
     outline: 0 none;
@@ -13,20 +13,20 @@ border-color: #429fe6;
 
 
 .left-cats > li > a:hover { 
-	color: #429fe6; 
+	color: #00000081; 
 }
 
-.panel-primary>.panel-heading { background-color: #429fe6; }
+.panel-primary>.panel-heading { background-color: #00000081; }
 .panel-primary {
-border-color: #429fe6;
+border-color: #00000081;
 }
 
-.panel-primary>.panel-heading { border-color: #429fe6; }
+.panel-primary>.panel-heading { border-color: #00000081; }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-border-top-color: #429fe6; 
+border-top-color: #00000081; 
 }
 
 .panel-title>a:hover { color: #fff; }
 
-.icons i { color: #429fe6; }
+.icons i { color: #00000081; }
