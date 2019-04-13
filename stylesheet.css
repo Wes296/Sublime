@@ -2,7 +2,7 @@ a, a:hover{ color: #429fe6; }
 
 .slicknav_menu, .mobile-menu { background: #429fe6; } 
 
-.navbar-default .navbar-nav > li > a:hover { background-color: #429fe6; }
+.navbar-default .navbar-nav > li > a:hover { background-color: #00000081; }
 
 .form-control:focus { 
 border-color: #429fe6; 
