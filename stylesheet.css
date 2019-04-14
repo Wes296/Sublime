@@ -1,9 +1,9 @@
 
-a, a:hover{ color: #429fe6; }
+a, a:hover{ color: #ff990aff; }
 
 .slicknav_menu, .mobile-menu { background: #429fe6; } 
 
-.navbar-default .navbar-nav > li > a:hover { background-color: #429fe6; }
+.navbar-default .navbar-nav > li > a:hover { background-color: #00000081; }
 
 .form-control:focus { 
 border-color: #429fe6; 
@@ -14,7 +14,7 @@ border-color: #429fe6;
 
 
 .left-cats > li > a:hover { 
-	color: #429fe6; 
+	color: #ff990aff; 
 }
 
 .panel-primary>.panel-heading { background-color: #429fe6; }
