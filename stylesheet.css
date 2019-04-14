@@ -17,15 +17,15 @@ border-color: #429fe6;
 	color: #ff990aff; 
 }
 
-.panel-primary>.panel-heading { background-color: #429fe6; }
+.panel-primary>.panel-heading { background-color: #00000081; }
 .panel-primary {
-border-color: #429fe6;
+border-color: #00000081;
 }
 
-.panel-primary>.panel-heading { border-color: #429fe6; }
+.panel-primary>.panel-heading { border-color: #00000081; }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-border-top-color: #429fe6; 
+border-top-color: #00000081; 
 }
 
 .panel-title>a:hover { color: #fff; }
