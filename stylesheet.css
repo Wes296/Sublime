@@ -25,7 +25,7 @@ border-color: #ff990aff;
 .panel-primary>.panel-heading { border-color: #00000081; }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-border-top-color: #ff990aff; 
+border-top-color: #00000081; 
 }
 
 .panel-title>a:hover { color: #fff; }
