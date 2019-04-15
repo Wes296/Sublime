@@ -17,9 +17,9 @@ border-color: #ff990aff;
 	color: #ff990aff; 
 }
 
-.panel-primary>.panel-heading { background-color: #00000081; }
+.panel-primary>.panel-heading { background-color: #ff990aff; }
 .panel-primary {
-border-color: #00000081;
+border-color: #ff990aff;
 }
 
 .panel-primary>.panel-heading { border-color: #00000081; }
