@@ -1,7 +1,7 @@
 
 a, a:hover{ color: #ff990aff; }
 
-.slicknav_menu, .mobile-menu { background: #ff990aff; } 
+.slicknav_menu, .mobile-menu { background: #00000081; } 
 
 .navbar-default .navbar-nav > li > a:hover { background-color: #ff990aff; }
 
@@ -17,9 +17,9 @@ border-color: #ff990aff;
 	color: #ff990aff; 
 }
 
-.panel-primary>.panel-heading { background-color: #ff990aff; }
+.panel-primary>.panel-heading { background-color: #00000081; }
 .panel-primary {
-border-color: #ff990aff;
+border-color: #00000081;
 }
 
 .panel-primary>.panel-heading { border-color: #ff990aff; }
