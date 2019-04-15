@@ -1,12 +1,12 @@
 
 a, a:hover{ color: #ff990aff; }
 
-.slicknav_menu, .mobile-menu { background: #00000081; } 
+.slicknav_menu, .mobile-menu { background: #ff990aff; } 
 
-.navbar-default .navbar-nav > li > a:hover { background-color: #00000081; }
+.navbar-default .navbar-nav > li > a:hover { background-color: #ff990aff; }
 
 .form-control:focus { 
-border-color: #429fe6; 
+border-color: #ff990aff; 
 
     box-shadow: none !important;
     outline: 0 none;
@@ -17,18 +17,18 @@ border-color: #429fe6;
 	color: #ff990aff; 
 }
 
-.panel-primary>.panel-heading { background-color: #00000081; }
+.panel-primary>.panel-heading { background-color: #ff990aff; }
 .panel-primary {
-border-color: #00000081;
+border-color: #ff990aff;
 }
 
-.panel-primary>.panel-heading { border-color: #00000081; }
+.panel-primary>.panel-heading { border-color: #ff990aff; }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-border-top-color: #00000081; 
+border-top-color: #ff990aff; 
 }
 
 .panel-title>a:hover { color: #fff; }
 
-.icons i { color: #429fe6; }
+.icons i { color: #ff990aff; }
 
